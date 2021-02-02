@@ -20,8 +20,8 @@ const MainPresenter: React.FunctionComponent<Props> = ({
 }: Props) => {
   return (
     <div className="Main">
-      <h1 className="MainTitle">Nymph of Gladia</h1>
-      <h2>- 검투의 요정 -</h2>
+      <h1 className="MainTitle">MagicColosseum</h1>
+      <h2>- 매직콜로세움 -</h2>
 
       <div className="account">
         <form
